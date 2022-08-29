@@ -1,0 +1,88 @@
+[22:58:18][INFO]Program starting
+[22:58:18][INFO]Check version = Test
+[22:58:18][INFO]Main window loaded successfully
+[22:59:35][INFO]Program starting
+[22:59:35][INFO]Check version = Test
+[22:59:36][INFO]Main window loaded successfully
+[23:10:30][INFO]Program starting
+[23:10:30][INFO]Check version = Test
+[23:10:31][INFO]Main window loaded successfully
+[09:05:38][INFO]Program starting
+[09:05:38][INFO]Check version = Test
+[09:05:45][INFO]Main window loaded successfully
+[09:08:00][INFO]Program starting
+[09:08:01][INFO]Check version = Test
+[09:08:01][INFO]Main window loaded successfully
+[09:08:22][INFO]Program starting
+[09:08:22][INFO]Check version = Test
+[09:08:23][INFO]Main window loaded successfully
+[09:08:31][INFO]Program starting
+[09:08:31][INFO]Check version = Test
+[09:08:32][INFO]Main window loaded successfully
+[09:08:49][INFO]Program starting
+[09:08:49][INFO]Check version = Test
+[09:08:50][INFO]Main window loaded successfully
+[09:13:58][INFO]Program starting
+[09:13:58][INFO]Check version = Test
+[09:13:58][INFO]Main window loaded successfully
+[09:14:11][INFO]Program starting
+[09:14:11][INFO]Check version = Test
+[09:14:12][INFO]Main window loaded successfully
+[15:09:20][INFO]Program starting
+[15:09:20][INFO]Check version = Test
+[15:09:21][INFO]Main window loaded successfully
+[15:09:27][ERROR]Could not create a new download task : no protocol: a
+[15:10:16][INFO]Program starting
+[15:10:16][INFO]Check version = Test
+[15:10:16][INFO]Main window loaded successfully
+[15:16:10][INFO]Program starting
+[15:16:10][INFO]Check version = Test
+[15:16:10][INFO]Main window loaded successfully
+[15:16:38][INFO]Program starting
+[15:16:38][INFO]Check version = Test
+[15:16:39][INFO]Main window loaded successfully
+[15:18:29][INFO]Program starting
+[15:18:29][INFO]Check version = Test
+[15:18:29][INFO]Main window loaded successfully
+[15:19:51][INFO]Program starting
+[15:19:51][INFO]Check version = Test
+[15:19:51][INFO]Main window loaded successfully
+[15:20:57][INFO]Program starting
+[15:20:57][INFO]Check version = Test
+[15:20:58][INFO]Main window loaded successfully
+[15:21:31][INFO]Program starting
+[15:21:31][INFO]Check version = Test
+[15:21:31][INFO]Main window loaded successfully
+[15:35:45][INFO]Program starting
+[15:35:45][INFO]Check version = Test
+[15:35:45][INFO]Main window loaded successfully
+[15:36:10][INFO]Program starting
+[15:36:10][INFO]Check version = Test
+[15:36:11][INFO]Main window loaded successfully
+[15:36:42][INFO]Program starting
+[15:36:42][INFO]Check version = Test
+[15:36:43][INFO]Main window loaded successfully
+[15:37:26][INFO]Program starting
+[15:37:26][INFO]Check version = Test
+[15:37:27][INFO]Main window loaded successfully
+[15:42:08][INFO]Program starting
+[15:42:08][INFO]Check version = Test
+[15:42:09][INFO]Main window loaded successfully
+[15:45:05][INFO]Program starting
+[15:45:06][INFO]Check version = Test
+[15:45:06][INFO]Main window loaded successfully
+[15:46:42][INFO]Program starting
+[15:46:42][INFO]Check version = Test
+[15:46:43][INFO]Main window loaded successfully
+[15:48:42][INFO]Program starting
+[15:48:42][INFO]Check version = Test
+[15:48:43][INFO]Main window loaded successfully
+[15:49:21][INFO]Program starting
+[15:49:21][INFO]Check version = Test
+[15:49:22][INFO]Main window loaded successfully
+[15:50:27][INFO]Program starting
+[15:50:27][INFO]Check version = Test
+[15:50:27][INFO]Main window loaded successfully
+[15:52:25][INFO]Program starting
+[15:52:25][INFO]Check version = Test
+[15:52:26][INFO]Main window loaded successfully
